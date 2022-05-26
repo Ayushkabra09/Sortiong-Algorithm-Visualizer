@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Sortiong-Algorithm-Visualizer/static/css/main.3885e359.css",
+    "main.js": "/Sortiong-Algorithm-Visualizer/static/js/main.012a349a.js",
+    "static/js/787.ef103b65.chunk.js": "/Sortiong-Algorithm-Visualizer/static/js/787.ef103b65.chunk.js",
+    "static/media/MonoLisa-Regular.otf": "/Sortiong-Algorithm-Visualizer/static/media/MonoLisa-Regular.4ec1cbcb13c98e690a55.otf",
+    "index.html": "/Sortiong-Algorithm-Visualizer/index.html",
+    "main.3885e359.css.map": "/Sortiong-Algorithm-Visualizer/static/css/main.3885e359.css.map",
+    "main.012a349a.js.map": "/Sortiong-Algorithm-Visualizer/static/js/main.012a349a.js.map",
+    "787.ef103b65.chunk.js.map": "/Sortiong-Algorithm-Visualizer/static/js/787.ef103b65.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3885e359.css",
+    "static/js/main.012a349a.js"
+  ]
+}
